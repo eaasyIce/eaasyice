@@ -1,6 +1,8 @@
-### Hi there 👋
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eaasyice&theme=tokyonight&exclude_repo=Coursera-Python3-Specialization-pillow-tesseract-and-opencv)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
+### Hi there 👋
 **eaasyIce/eaasyice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
